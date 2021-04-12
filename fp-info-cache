@@ -1,4 +1,4 @@
-18649400640969497
+18649413783826673
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6188,13 +6188,6 @@ MODULE_ESP32-DEVKITC
 38
 38
 Chimere
-MX_FLIP_DIODE
-
-
-0
-15
-6
-Chimere
 PTR901
 
 
@@ -6230,11 +6223,18 @@ SOT23-6
 6
 6
 Chimere
+SW_MX_LED
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+4
+Chimere
 doigt_sw
 switch bouton doigt pcb
 
 0
-86
+4
 2
 Connector
 Banana_Jack_1Pin
