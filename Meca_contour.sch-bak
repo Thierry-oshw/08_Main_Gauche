@@ -27,10 +27,10 @@ $EndComp
 Wire Wire Line
 	1000 1150 1000 1200
 $Comp
-L Mechanical:MountingHole_Pad H3
+L Mechanical:MountingHole_Pad H2
 U 1 1 5FCCD464
 P 1000 1650
-F 0 "H3" H 1100 1699 50  0000 L CNN
+F 0 "H2" H 1100 1699 50  0000 L CNN
 F 1 "MountingHole_Pad" H 1100 1608 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1000 1650 50  0001 C CNN
 F 3 "~" H 1000 1650 50  0001 C CNN
@@ -40,10 +40,10 @@ $EndComp
 Wire Wire Line
 	1000 1750 1000 1800
 $Comp
-L Mechanical:MountingHole_Pad H2
+L Mechanical:MountingHole_Pad H3
 U 1 1 5FCD7741
 P 1325 1050
-F 0 "H2" H 1425 1099 50  0000 L CNN
+F 0 "H3" H 1425 1099 50  0000 L CNN
 F 1 "MountingHole_Pad" H 1425 1008 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1325 1050 50  0001 C CNN
 F 3 "~" H 1325 1050 50  0001 C CNN
