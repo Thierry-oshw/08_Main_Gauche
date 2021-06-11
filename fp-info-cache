@@ -1,4 +1,4 @@
-19146339111403309
+19147962515601361
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6222,6 +6222,13 @@ capacitor tantalum
 0
 2
 2
+Chimere
+ARDUINO_MICRO_SCKT
+
+ARDUINO, MICRO socket
+0
+34
+34
 Chimere
 Adafruit_UDA1334
 
